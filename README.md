@@ -1,5 +1,5 @@
 # php-doc-reader
-Reads configuration assets in objects and elements.
+Reads configuration assets in objects and elements, just like in the example below:
 
 ```php
 <?php
