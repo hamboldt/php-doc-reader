@@ -1,6 +1,6 @@
 # php-doc-reader
 
-[![Build Status](https://scrutinizer-ci.com/g/hamboldt/php-doc-reader/badges/build.png?b=master)](https://scrutinizer-ci.com/g/hamboldt/php-doc-reader/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hamboldt/php-doc-reader/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hamboldt/php-doc-reader/?branch=master)
+[![Build Status](https://scrutinizer-ci.com/g/hamboldt/php-doc-reader/badges/build.png?b=master)](https://scrutinizer-ci.com/g/hamboldt/php-doc-reader/build-status/master) [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/hamboldt/php-doc-reader/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/hamboldt/php-doc-reader/?branch=master) [![License](https://poser.pugx.org/hamboldt/php-doc-reader/license)](https://packagist.org/packages/hamboldt/php-doc-reader)
 
 Reads configuration assets in objects and elements, just like in the example below:
 
