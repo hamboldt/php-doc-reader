@@ -1,0 +1,26 @@
+{
+  "name": "hamboldt/php-doc-reader",
+  "description": "Reads configurations from comments in PHP, converting them from JSON to arrays.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+
+  "authors": [
+    {
+      "name": "Lucas A. de Araújo",
+      "email": "lucasdearaujo88@gmail.com"
+    }
+  ],
+
+  "autoload":{
+    "psr-4": {
+      "PhpDocReader\\": "src/PhPDocReader"
+    }
+  },
+
+  "require-dev": {
+    "php": ">=5.4.0"
+  },
+  "require": {
+    "phpunit/phpunit": "4.8.1"
+  }
+}
