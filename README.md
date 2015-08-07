@@ -18,8 +18,8 @@ class MyConfigurableClass
 }
 
 // array("config_name" => "config_value")
-phpDocReader::getConfig('MyConfigurableClass');
+PhpDocReader\Reader::getConfig('MyConfigurableClass');
 
 // array("config_name" => "config_value")
-phpDocReader::getConfig('MyConfigurableClass::$property');
+PhpDocReader\Reader::getConfig('MyConfigurableClass', 'property');
 ```
