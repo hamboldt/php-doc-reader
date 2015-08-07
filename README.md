@@ -4,6 +4,9 @@
 
 Reads configuration assets in objects and elements, just like in the example below:
 
+`composer require hamboldt/php-doc-reader`
+
+### Example
 ```php
 <?php
 
