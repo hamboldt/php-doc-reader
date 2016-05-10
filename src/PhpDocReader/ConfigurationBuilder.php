@@ -28,7 +28,7 @@ class ConfigurationBuilder
      */
     private static function getJson($comment)
     {
-        preg_match_all("/@configure (.*?)\r\n/", $comment, $matches);
+        preg_match_all("/@configure (.*?)\n/", $comment, $matches);
         return $matches[1];
     }
 
